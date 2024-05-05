@@ -56,12 +56,14 @@ endmodule
 
 ```
 **RTL LOGIC FOR FLIPFLOPS**
+
 ![image](https://github.com/SubashM00/D-FLIPDLOP-NEGEDGE/assets/144870586/9fab8b47-1b8f-4939-9006-8a3d31ac5465)
 
 
 **TIMING DIGRAMS FOR FLIP FLOPS**
+
 ![image](https://github.com/SubashM00/D-FLIPDLOP-NEGEDGE/assets/144870586/b6731ad3-9519-4c63-a4ec-81e8f19165c3)
 
-
 **RESULTS**
+
 Thus the program to implement a D flipflop using verilog and validating their functionality using their functional tables
